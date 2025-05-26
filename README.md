@@ -27,6 +27,10 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=FFFFFF&labelColor=0D1117 )
 ![Arduino IDE](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117 )
 
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/felipe-cerazi-a1a2b1356/?originalSubdomain=br)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117)](mailto:fecerazi@gmail.com)
+
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Felipe-Cerazi}/count.svg" /></p>
