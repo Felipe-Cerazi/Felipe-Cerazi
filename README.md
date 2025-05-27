@@ -10,8 +10,23 @@
 
 <br/>
 
+<!-- Languages + About Me -->
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Cerazi&layout=compact&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Cerazi&layout=compact&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" width="400px"/>
+      </td>
+      <td>
+        <h3>👨‍💻 About Me</h3>
+        <ul>
+          <li>🎓 Software Engineering student at FIAP</li>
+          <li>💡 Passionate about technology, innovation, and automation</li>
+          <li>🧠 Interests: AI, Web Development, Embedded Systems</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -38,7 +53,7 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/felipe-cerazi-a1a2b1356/?originalSubdomain=br)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:fecerazi@gmail.com)
 
